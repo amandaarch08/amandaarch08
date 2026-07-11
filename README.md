@@ -15,10 +15,10 @@
 ---
 
 ### 🚀 What I'm into
-- 📊 Data & Machine Learning
-- 💻 Web Development (PHP native, Next.js)
-- 🔐 Network Security
-- 🎨 UI/UX Design
+-  Data & Machine Learning
+-  Web Development (PHP native, Next.js)
+-  Network Security
+-  UI/UX Design
 
 ### 📫 Reach me
 <p>
