@@ -1,42 +1,33 @@
-## Hi there 👋
-```python
-class AmandaDamayanti:
-    def __init__(self):
-        self.name = "Amanda Damayanti"
-        self.role = "Information Systems Student"
+<h1 align="center">Hi there, I'm Amanda 👋</h1>
 
-        self.specializations = {
-            "Data": [
-                "Machine Learning",
-                "Big Data",
-                "Data Analytics"
-            ],
-            "Development": [
-                "Web Development",
-                "UI/UX Design",
-                "System Analysis & Design"
-            ],
-            "Infrastructure": [
-                "Internet of Things (IoT)",
-                "Network Security",
-                "Computer Networking"
-            ]
-        }
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Information+Systems+Student;Data+%26+ML+Enthusiast;Learning+Cybersecurity+%F0%9F%94%90;Always+Building+Something+New" alt="Typing SVG" />
+</p>
 
-        self.tools = [
-            "Python", "Jupyter Notebook", "Google Colab",
-            "PHP", "MySQL", "XAMPP", "VS Code",
-            "Figma", "Cisco Packet Tracer",
-            "Kali Linux", "Nmap",
-            "Tinkercad", "ESP32",
-            "Enterprise Architect"
-        ]
+<p align="center">
+  Building with Python, PHP, IoT, Data Analytics, and Network Security — always learning, always growing 🌱
+</p>
 
-        self.goal = "Building scalable, intelligent, and user-centered technology solutions"
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,mysql,figma,git,github" />
+</p>
 
-    def introduce(self):
-        return f"Hi, I'm {self.name} 👋 An {self.role} passionate about data, intelligent systems, and technology innovation."
+---
 
-me = AmandaDamayanti()
-print(me.introduce())
-```
+### 🚀 What I'm into
+- 📊 Data & Machine Learning
+- 💻 Web Development (PHP native, Next.js)
+- 🔐 Network Security
+- 🎨 UI/UX Design
+
+### 📫 Reach me
+<p>
+  <a href="https://www.linkedin.com/in/amanda-damayanti-7814b2415?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="amandamoesaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amandaarch08&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
