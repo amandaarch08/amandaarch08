@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Amanda Damayanti 👋
+# Hi, I'm Amanda Damayanti 
 
 ### Information Systems Student · Digital Innovation · Technology
 
@@ -49,7 +49,7 @@ Explore the fields and technologies I have been learning through an interactive 
 
 ---
 
-## 🚀 Selected interests
+## Selected interests
 
 - **System Analysis & Business Process Management** — understanding needs and improving workflows.
 - **Digital Innovation** — exploring how information systems support people and organizations.
@@ -60,7 +60,7 @@ Explore the fields and technologies I have been learning through an interactive 
 
 ---
 
-## 📊 GitHub activity
+## GitHub activity
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=amandaarch08&show_icons=true&hide_border=true&bg_color=1A0F12&title_color=C58A9A&text_color=E8D8CC&icon_color=C9A96E&rank_icon=github" alt="Amanda's GitHub stats"/>
